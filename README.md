@@ -197,3 +197,11 @@ https://inventory-order-api-i7hu.onrender.com
 
 Docker Image:
 https://hub.docker.com/r/solan3006/inventory-order-api
+## Docker
+
+Pull image:
+
+docker pull solan3006/inventory-order-api
+
+Docker Hub:
+https://hub.docker.com/r/solan3006/inventory-order-api
