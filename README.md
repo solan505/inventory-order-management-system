@@ -187,3 +187,13 @@ The included `frontend/vercel.json` configures Vite build output and SPA rewrite
 - Backend Docker Hub image link: `https://hub.docker.com/r/<your-user>/inventory-order-backend`
 - Frontend hosted URL: Vercel deployment URL
 - Backend API hosted URL: Render deployment URL
+## Live Deployment
+
+Frontend:
+https://your-vercel-url.vercel.app
+
+Backend:
+https://inventory-order-api-i7hu.onrender.com
+
+Docker Image:
+https://hub.docker.com/r/solan3006/inventory-order-api
